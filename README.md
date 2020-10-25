@@ -2,11 +2,9 @@
 
 > I only backup some open source and lost software ヾ(•ω•`)o
 
-[TOC]
-
 ##### GNU compilation script
 
-/ - gnu-environment-shell
+/gnu-environment-shell
 
 ​	- gnu-arm-build.2.sh
 
